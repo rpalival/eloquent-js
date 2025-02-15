@@ -10,3 +10,16 @@ function min(num1, num2) {
 }
 
 console.log(min(3,1));
+
+/*
+Textbook Solution
+------------------------------------------------------
+function min(a, b) {
+    if (a < b) {
+        return a;
+    } else {
+        return b;
+    }
+}
+-----------------------------------------------------
+*/

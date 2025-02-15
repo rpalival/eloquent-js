@@ -31,3 +31,10 @@ function countBs(string) {
 }
 
 console.log(countBs("BAAaaBBbb"));
+
+/*
+Textbook Solution
+------------------------------------------------------
+Same as mine, variable names are changed
+-----------------------------------------------------
+*/
